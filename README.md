@@ -5,4 +5,4 @@
 
 №|Описание|Ссылка на работу
 ---|---|---
-1|coming soon|i promise
+1|Виселица|[ссылка](https://github.com/dotsanddashes/coding2/tree/master/hw1)
