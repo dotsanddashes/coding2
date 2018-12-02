@@ -8,4 +8,4 @@
 1|Виселица|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw1)
 2|Github Users|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw2)
 3|Газетный корпус|none
-4|Саййт-анкета|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw4)
+4|Сайт-анкета|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw4)
