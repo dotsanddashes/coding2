@@ -10,3 +10,4 @@
 3|Газетный корпус|none
 4|Сайт-анкета|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw4)
 5|NetworkX|[Код](https://github.com/dotsanddashes/coding2/tree/master/hw7)
+6|Финальный проект|[Код](https://github.com/dotsanddashes/coding2/tree/master/FinalProject)
